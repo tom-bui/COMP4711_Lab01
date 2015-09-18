@@ -21,7 +21,7 @@ and open the template in the editor.
             $first->first_name = "Bruce";
             $first->add_email('home', 'bruce.wayne@batcave.com');
             $first->add_email('work', 'bwayne@wayneenterprises.com');
-            $first->add_grade(90);
+            $first->add_grade(80);
             $first->add_grade(88);
             $first->add_grade(95);
             $students['bwayne'] = $first;
